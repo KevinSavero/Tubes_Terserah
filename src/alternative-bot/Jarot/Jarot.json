@@ -1,0 +1,10 @@
+{
+  "name": "Jarot",
+  "version": "4.0",
+  "authors": ["KevinSavero", "AngkenMuhatunNufus", "WindaNainggolan"],
+  "description": "Sang Raja Awan Jarot: Menargetkan musuh yang bergerak paling lambat (hit probability tertinggi) dengan bullet power adaptif berbanding terbalik dengan jarak. Bergerak perpendicular untuk menghindari tembakan balasan.",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Gelas",
+  "version": "3.0",
+  "authors": ["KevinSavero", "AngkenMuhatunNufus", "WindaNainggolan"],
+  "description": "Si manis ialah si Marlong: Menargetkan musuh dengan energi terendah untuk memaksimalkan Bullet Damage Bonus dan Survival Score. Bergerak menjauh dari kerumunan untuk menjadi bot terakhir yang hidup.",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+}

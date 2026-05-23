@@ -1,0 +1,10 @@
+{
+  "name": "Bokir",
+  "version": "2.0",
+  "authors": ["KevinSavero", "AngkenMuhatunNufus", "WindaNainggolan"],
+  "description": "Lord Bokir: Selalu mengejar dan menabrak musuh terdekat untuk memaksimalkan Ram Damage dan Ram Damage Bonus. Mengkombinasikan tembakan power penuh saat jarak sangat dekat untuk combo kill.",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+}
